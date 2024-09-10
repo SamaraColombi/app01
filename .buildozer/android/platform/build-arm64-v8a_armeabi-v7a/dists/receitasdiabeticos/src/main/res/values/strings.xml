@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReceitasDiabeticosApp</string>
+    <string name="private_version">54ca21b17149127127f81c0a53467d064002d9d2</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>

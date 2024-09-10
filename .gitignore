@@ -1,0 +1,9 @@
+# Ignorar configurações de build do Buildozer e credenciais do Firebase
+firebase_config.json
+projetofaculdade-c05bb-firebase-adminsdk-zm28v-16554f2ec7.json
+*.Zone.Identifier
+*.pyc
+__pycache__/
+build/
+bin/
+
